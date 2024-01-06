@@ -33,4 +33,4 @@ Contributions to enhance the application or fix issues are welcome. Please follo
 
 ## License
 
-[Specify the License here]
+[MIT License](LICENSE)
